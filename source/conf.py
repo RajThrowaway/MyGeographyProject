@@ -20,7 +20,7 @@ import sphinx_foundation_theme
 
 project = 'Climate Change and Antarctica'
 copyright = ''
-author = 'Rajarshi Mandal'
+author = ''
 
 # The full version, including alpha/beta/rc tags
 release = ''
@@ -32,6 +32,7 @@ release = ''
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+        'sphinx.ext.githubpages'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
