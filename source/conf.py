@@ -20,7 +20,7 @@ import sphinx_foundation_theme
 
 project = 'Climate Change and Antarctica'
 copyright = ''
-author = 'Rajarshi Mandal'
+author = ''
 
 # The full version, including alpha/beta/rc tags
 release = ''
